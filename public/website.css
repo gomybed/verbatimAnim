@@ -21,11 +21,12 @@ pre{
 }
 
 #text{
-	font-size:16px;
-	font-size:1.4rem;
+	
 	height: 500;
 	margin: 0 auto;
 	color: #FFFFF0;
+	font-size:14px;
+	font-size:1.4rem;
 	font-family:"Consolas","Monaco","Bitstream Vera Sans Mono","Courier New","sans-serif";
 }
 
