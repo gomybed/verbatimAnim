@@ -20,11 +20,12 @@ pre{
 	font-family:"Consolas","Monaco","Bitstream Vera Sans Mono","Courier New","sans-serif";
 }
 ul{
+	width: 70%;
 	margin: 0 auto;
 }
 #text{
-	height: 500;
-	width: 600;
+	height: 300;
+	width: 70%;
 	margin: 0 auto;
 	color: #FFFFF0;
 	font-family:"Consolas","Monaco","Bitstream Vera Sans Mono","Courier New","sans-serif";
