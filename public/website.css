@@ -19,7 +19,9 @@ pre{
 	color: #FFFFF0;
 	font-family:"Consolas","Monaco","Bitstream Vera Sans Mono","Courier New","sans-serif";
 }
-
+ul{
+	margin: 0 auto;
+}
 #text{
 	height: 500;
 	width: 600;
